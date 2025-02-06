@@ -1478,7 +1478,6 @@ public enum VmaxAdSpaceState {
   case adRender
   case adError
   case adRenderError
-  case adClose
   public static func == (a: Vmax.VmaxAdSpaceState, b: Vmax.VmaxAdSpaceState) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {

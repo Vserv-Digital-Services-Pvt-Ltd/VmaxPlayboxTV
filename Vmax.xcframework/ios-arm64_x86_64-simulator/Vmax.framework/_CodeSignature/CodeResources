@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		MArCMN6sRjnV89mMvIHzlue00Gw=
+		F9Yv8qxhz8cUKf1aXvINB8yLiPo=
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hJsWi7rcmdP0FEIrrk25YcPY6AA=
+		PmjAlqiCIrLp+Xour43xjMCRZFk=
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hJsWi7rcmdP0FEIrrk25YcPY6AA=
+		PmjAlqiCIrLp+Xour43xjMCRZFk=
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GvtjhEPYfaQEfq1egXzw9aUzDi8=
+		9EkhBSM+Bxt9rI3MENY5u5Quhv0=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		MArCMN6sRjnV89mMvIHzlue00Gw=
+		F9Yv8qxhz8cUKf1aXvINB8yLiPo=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5Agq/8Dc8q9xGRDAXzhlzpFuRy4=
+		UBMs6iuBymxoXHnQmBcoHo9Buqw=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5Agq/8Dc8q9xGRDAXzhlzpFuRy4=
+		UBMs6iuBymxoXHnQmBcoHo9Buqw=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		u2Kac8fo5RxuA5A2LzFTAeLk8Vs=
+		Tz9mGx+UbCGYuuyfx1bMrik+53s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -92,14 +92,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tSoFKQlrFDdv22oiSD3OFSjdp/spkW18vdMhOD5Cp+0=
+			+YEq4lgXIQiU7lPze4vFD0MOXM/Btb5xvJnFysXqu8U=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CADQLfExankFAVfzdfG7mlDVs/LYoOj++2FULYD5Sw4=
+			afwWWYshrvq3RVGa+dIIDwEcw9N9QEDQTBOdWjhJz1E=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -113,28 +113,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CADQLfExankFAVfzdfG7mlDVs/LYoOj++2FULYD5Sw4=
+			afwWWYshrvq3RVGa+dIIDwEcw9N9QEDQTBOdWjhJz1E=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			krbKDPrIeXN7cMWZ8/eUDaxed11WGCjExaW6IpEy4Pc=
+			IGciwMh0gQnYfJWYrNKKSoTBs2ubVikgl5X5k0YrwBw=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tSoFKQlrFDdv22oiSD3OFSjdp/spkW18vdMhOD5Cp+0=
+			+YEq4lgXIQiU7lPze4vFD0MOXM/Btb5xvJnFysXqu8U=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzJ9IV9CgZjRx1EHTAZZKl3X5DC7J2yaM5oLJ0suF1Q=
+			PeRRDk3K07RbAB+/Lh8QxbV/CH+SAH4bw2jHictWvyM=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -148,14 +148,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzJ9IV9CgZjRx1EHTAZZKl3X5DC7J2yaM5oLJ0suF1Q=
+			PeRRDk3K07RbAB+/Lh8QxbV/CH+SAH4bw2jHictWvyM=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dKRLbbwX1m2EdqIpq/Ff1ZL3ChWabIxwZJe+ruFlFNg=
+			gbmorDRgZikbtei3ggsy9WlqgnM1fKnsNlPpp0TFQEk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
