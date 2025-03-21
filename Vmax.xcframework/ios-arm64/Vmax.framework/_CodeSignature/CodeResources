@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		RrDc5fzPgT8GVzRWJo/7O7DCXtc=
+		Fsnqc9Izz97TWlsBFgCrtgEANR4=
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NX/hW+G0wirecNWpvm8sE5Xda8M=
+		alt6tGRLDStnrcGqxwvC8KDFYoo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9S7U8SR73429obyp147szapZdgkszppyJ8WKTyGPU2E=
+			cWxzHJXRp9ox6Xa4r6tIaez7ZuhTlkiNy9xeCc0yYyA=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NDzJyw4gDrxZlo2eh3Jpd824EepVfLIVkcok/brgD9Q=
+			ecnjk50KK4/d8L9fNx0gA29ZOaiFHZ3f0H1mwg2rt7w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
